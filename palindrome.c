@@ -19,6 +19,6 @@ int main() {
     else{
         printf("Given number is not a palindromic number");
     }
-    return 0;
+  //  return 0;
     
 }
